@@ -1,0 +1,3 @@
+========= CUDA-MEMCHECK
+========= Error: Could not run D:\PROJECT\GRAPH_PROG\RTX_WKND\RTX_CUDA_CUSTOM\x64\Release\RTX_CUDA_CUSTOM.exe
+========= No CUDA-MEMCHECK results found
